@@ -11,5 +11,5 @@ CREATE table coffee(
 
 INSERT INTO coffee (name, type, money) VALUES ('Mocha', 'iced', 5
 ),
-('latte', 'hot', 4.5), 
-('frapp', 'blended', 5.5);
+('latte', 'hot', 5), 
+('frappe', 'blended', 6);
